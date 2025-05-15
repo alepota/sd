@@ -46,18 +46,18 @@ global.baileys = '@whiskeysockets/baileys'
 global.vs = '2.0.7'
 global.languaje = 'Español'
 global.nameqr = 'Sisked-x'
-global.namebot = '@alexnsnk7'
+global.namebot = '@alexdre_sa'
 global.sessions = 'ALEIZNBOTSession'
 global.jadi = 'ALEIZNBOTJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '@alexnsnk7'
-global.botname = '@alexnsnk7'
+global.packname = '@alexdre_sa'
+global.botname = '@alexdre_sa'
 global.wm = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘉𝘰𝘵'
-global.author = '@alexnsnk7'
+global.author = '@alexdre_sa'
 global.dev = '𝙉𝙤𝙩 𝙈𝙮 𝙋𝙧𝙤𝙡𝙚𝙢𝙖'
-global.textbot = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 @alexnsnk7'
+global.textbot = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 @alexdre_sa'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 

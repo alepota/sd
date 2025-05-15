@@ -38,7 +38,7 @@ const handler = async (m, { isOwner, isAdmin, conn, text, participants, args }) 
     teks += `${flagOrEmoji} @${mem.id.split('@')[0]}\n`;
   }
 
-  teks += `└━━━━━━━━━━━━━━━━━━━━⭓\n\n> 𝑨𝒍𝒆𝒙𝒏𝑽𝒆𝒏𝒕𝒂T`;
+  teks += `└━━━━━━━━━━━━━━━━━━━━⭓\n\n> ALExLU𝑽𝒆𝒏𝒕𝒂T`;
   await conn.sendMessage(m.chat, { 
     text: teks,
     mentions: participants.map((a) => a.id)

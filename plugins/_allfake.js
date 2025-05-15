@@ -37,7 +37,7 @@ handler.all = async function (m) {
     global.creador = 'Wa.me/51992621601'
     global.ofcbot = `${conn.user.jid.split('@')[0]}`
     global.asistencia = 'https://wa.me/qr/PAOHAKCEHGUXN1'
-    global.namechannel = '@alexnsnk7'
+    global.namechannel = '@alexdre_sa'
 
     //Reacciones De Comandos.!
     global.rwait = '🕒'
