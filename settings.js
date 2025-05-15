@@ -15,13 +15,13 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['51993047526', 'Alexnn', true],
-  ['51993047526', 'Alexnn', true],
-  ['51993047526', 'Alexnn', true],
-  ['51993047526'],
-  ['51993047526'],
-  ['51993047526'],
-  ['51993047526'],
+  ['51992621601', 'ALEIZN', true],
+  ['51992621601', 'ALEIZN', true],
+  ['51992621601', 'ALEIZN', true],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
+  ['51992621601'],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -67,16 +67,16 @@ global.avatar = fs.readFileSync('./src/img/avatar_contact.png')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
-global.channel = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
-global.channel2 = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
+global.grupo = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'
+global.channel = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'
+global.channel2 = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'
 global.md = 'https://wa.me/qr/PAOHAKCEHGUXN1'
-global.ig = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
-global.tiktok = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
+global.ig = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'
+global.tiktok = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.estilo = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "51993047526-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount: -999999, status: 1, surface: 1, message: 'Ai Otho - MD', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net' } } }
+global.estilo = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "51992621601-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount: -999999, status: 1, surface: 1, message: 'Ai Otho - MD', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net' } } }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
