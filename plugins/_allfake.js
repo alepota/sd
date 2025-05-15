@@ -44,7 +44,7 @@ handler.all = async function (m) {
     global.done = '✅'
     global.error = '✖️'
 
-    //Emojis determinado de BOSSBOT Bot
+    //Emojis determinado de ALEIZNBOT Bot
     global.emoji = '🍁'
     global.emoji2 = '⭐'
     global.emoji3 = '✨️'

@@ -47,8 +47,8 @@ global.vs = '2.0.7'
 global.languaje = 'Español'
 global.nameqr = 'Sisked-x'
 global.namebot = '@alexnsnk7'
-global.sessions = 'BOSSBOTSession'
-global.jadi = 'BOSSBOTJadiBot'
+global.sessions = 'ALEIZNBOTSession'
+global.jadi = 'ALEIZNBOTJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
